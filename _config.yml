@@ -11,3 +11,5 @@ exclude:
   - /screenshots
   - /fixtures
   - Rakefile
+
+theme: jekyll-theme-minimal
