@@ -16,19 +16,19 @@ education:
   - university: University of Wisconsin - Madison
     duration: Jan 2022 - May 2024 (expected)
     location: Madison, WI, USA
-    major: 3.79 / Computer Science & Statistics double major
+    major: 3.79 / Bachelor of Science, Computer Science + Statistics
   - university: Green River College
     duration: Jul 2020 - Dec 2021 (expected)
     location: Auburn, WA, USA
-    major: 4.0 / Computer Science + Statistcs
+    major: 4.0 / Associate of Arts in Statistics
 
 skills:
   - title: Languages
-    items: Python, Java, R, C++
+    items: Python, PostgreSQL, Java, R
   - title: Frameworks
-    items: PostgreSQL, Spark, AWS, Hive
+    items: Docker, Spark, AWS S3, Hive
   - title: Software
-    items: Docker, Kubernetes, Terraform
+    items: Metabase
 experience:
   - title: Job Title 1
     duration: Apr 2016 - Now
@@ -43,16 +43,18 @@ experience:
     company: Your 3rd Co, Ltd.
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
+  - name: Household Pulse Tracker
+    description: Tracking and measuring the mental impacts of COVID-19 on American households through a data warehouse based in the AWS ecosystem. 
+    contribution: AWS S3, PostgreSQL, Airflow, Metabase.
+  - name: Typology
     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+    contribution: R.
 languages:
   - name: Indonesian
     proficiency: Native proficiency
   - name: English
     proficiency: Bilingual proficiency (8.5 IELTS)
   - name: German
-    proficiency: Professional level (Goethe B2)
+    proficiency: Working proficiency (Goethe B2)
+  - name: Brazilian Portuguese
+    proficiency: Elementary level (~B1)
