@@ -1,0 +1,54 @@
+title: Résumé
+name: Abel Kartawinata
+jobtitle: Junior Data Engineer
+contact:
+  - icon: fa-envelope
+    text: abelkartawinata@gmail.com
+  - icon: fa-phone-square
+    text: your-phone-num
+  - icon: fa-globe
+    text: abelkartwii.me
+    link: https://crispgm.github.io/resume/resume.html
+  - icon: fa-github
+    text: github.com/abelkartwii
+    link: https://github.com/abelkartwii
+education:
+  - university: Green River College
+    duration: Jul 2020 - Dec 2021 (expected)
+    location: Auburn, Washington, USA
+    major: Statistics and Computer Science, 4.0
+
+skills:
+  - title: Skill Group 1
+    items: Lorem, Ipsum, Dolor, Sit, Amet
+  - title: Skill Group 2
+    items: Consectetur, Adipiscing, Elit
+  - title: Skill Group 3
+    items: Sed do, Eiusmod, Tempor, Incididunt
+experience:
+  - title: Job Title 1
+    duration: Apr 2016 - Now
+    company: Your 1st, Inc.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  - title: Job Title 2
+    duration: Apr 2013 - Mar 2016
+    company: Your 2nd, Inc.
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Job Title 3
+    duration: Dec 2011 - Mar 2012
+    company: Your 3rd Co, Ltd.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+projects:
+  - name: Project Name 1
+    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    contribution: Contributor.
+  - name: Project Name 2
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    contribution: Creator and maintainer.
+languages:
+  - name: Indonesian
+    proficiency: Native proficiency
+  - name: English
+    proficiency: Bilingual proficiency (8.5 IELTS)
+  - name: German
+    proficiency: Professional level (Goethe B2)
