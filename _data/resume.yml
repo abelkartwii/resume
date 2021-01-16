@@ -1,4 +1,4 @@
-title: Résumé
+title: Abel's Resume
 name: Abel Kartawinata
 jobtitle: Junior Data Engineer
 contact:
@@ -8,23 +8,27 @@ contact:
     text: your-phone-num
   - icon: fa-globe
     text: abelkartwii.me
-    link: https://crispgm.github.io/resume/resume.html
+    link: https://abelkartwii.me
   - icon: fa-github
     text: github.com/abelkartwii
     link: https://github.com/abelkartwii
 education:
+  - university: University of Wisconsin - Madison
+    duration: Jan 2022 - May 2024 (expected)
+    location: Madison, WI, USA
+    major: 3.79 / Computer Science & Statistics double major
   - university: Green River College
     duration: Jul 2020 - Dec 2021 (expected)
-    location: Auburn, Washington, USA
-    major: Statistics and Computer Science, 4.0
+    location: Auburn, WA, USA
+    major: 4.0 / Computer Science + Statistcs
 
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Languages
+    items: Python, Java, R, C++
+  - title: Frameworks
+    items: PostgreSQL, Spark, AWS, Hive
+  - title: Software
+    items: Docker, Kubernetes, Terraform
 experience:
   - title: Job Title 1
     duration: Apr 2016 - Now
