@@ -4,8 +4,6 @@ jobtitle: Junior Data Engineer
 contact:
   - icon: fa-envelope
     text: abelkartawinata@gmail.com
-  - icon: fa-phone-square
-    text: your-phone-num
   - icon: fa-globe
     text: abelkartwii.me
     link: https://abelkartwii.me
@@ -13,42 +11,33 @@ contact:
     text: github.com/abelkartwii
     link: https://github.com/abelkartwii
 education:
-  - university: University of Wisconsin - Madison
-    duration: Jan 2022 - May 2024 (expected)
-    location: Madison, WI, USA
-    major: 3.79 / Bachelor of Science, Computer Science + Statistics
   - university: Green River College
     duration: Jul 2020 - Dec 2021 (expected)
     location: Auburn, WA, USA
-    major: 4.0 / Associate of Arts in Statistics
+    major: 4.0 / Associate of Arts in Computer Science
 
 skills:
   - title: Languages
     items: Python, PostgreSQL, Java, R
   - title: Frameworks
-    items: Docker, Spark, AWS S3, Hive
+    items: Apache Spark, Docker, AWS
   - title: Software
-    items: Metabase
+    items: Excel, Tableau, Metabase
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Peer Educator Volunteer
+    duration: January 2021 - Present
+    company: Green River College
+    description: 
 projects:
   - name: Household Pulse Tracker
-    description: Tracking and measuring the mental impacts of COVID-19 on American households through a data warehouse based in the AWS ecosystem. 
+    description: Tracked and measures the mental impacts of COVID-19 on American households through a data warehouse based in the AWS ecosystem. Orchestrated the movement of data from an Open Data API to an S3 bucket using Airflow, before using SQL scripts to transform the data into visualization-ready.
     contribution: AWS S3, PostgreSQL, Airflow, Metabase.
+  - name: Scrobbler
+    description: Used a public API to visualize listening habits.
+    contribution: PostgreSQL, Spark,
   - name: Typology
     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: R.
+    contribution: R, PostgreSQL
 languages:
   - name: Indonesian
     proficiency: Native proficiency
